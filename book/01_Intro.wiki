@@ -1,10 +1,4 @@
 
-=How to See a Poem=
-
-A Visual Way of Reading{{break}}
-Poetry and Literature{{break}}
-for People Who Are Not Sure They Like Them
-
 ==Foreword==
 
 I wrote this book for people like me, who are intrigued by literature and poetry,
@@ -48,3 +42,5 @@ So if you're one of those lucky people, you may still find something new in here
 
 And so, without further ado.
 
+
+[https://github.com/csirmaz/How_To_See_A_Poem/blob/master/book/00_Contents.wiki Back to contents]
