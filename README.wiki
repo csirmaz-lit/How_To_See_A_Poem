@@ -1,0 +1,20 @@
+= How To See a Poem =
+
+A Visual Way of Reading
+Poetry and Literature
+for People Who Are Not Sure They Like Them
+
+== Introduction to the Git Repository ==
+
+Hi there!
+This Git repository is the source of a booklet
+I'm working on, which is a light-hearted introduction
+to a couple of ideas that made reading literature
+much more accessible and interesting for me.
+As GitHub renders the source files nicely, you can
+actually read the latest version of the booklet right here.
+Please feel free to log in and create an issue or leave a comment.
+
+For a more technical and formalised introduction to
+the main concepts behind this approach, please see the
+[https://github.com/csirmaz/How_To_See_A_Poem/wiki wiki].
