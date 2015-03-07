@@ -18,3 +18,5 @@ Please feel free to log in and create an issue or leave a comment.
 For a more technical and formalised introduction to
 the main concepts behind this approach, please see the
 [https://github.com/csirmaz/How_To_See_A_Poem/wiki wiki].
+
+== [https://github.com/csirmaz/How_To_See_A_Poem/blob/master/book/00_Contents.wiki Start reading] ==
