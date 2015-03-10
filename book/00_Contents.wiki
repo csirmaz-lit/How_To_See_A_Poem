@@ -1,7 +1,7 @@
 
 =How to See a Poem=
 
-[[File:https://raw.githubusercontent.com/csirmaz/How_To_See_A_Poem/master/book/images/bridge.png]]
+<img src="https://raw.githubusercontent.com/csirmaz/How_To_See_A_Poem/master/book/images/bridge.png"/>
 
 A Visual Way of Reading{{break}}
 Poetry and Literature{{break}}
