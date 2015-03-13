@@ -10,5 +10,7 @@ for People Who Are Not Sure They Like Them
 ==Contents==
 
 * [https://github.com/csirmaz/How_To_See_A_Poem/blob/master/book/01_Intro.wiki Foreword]
+* [https://github.com/csirmaz/How_To_See_A_Poem/blob/master/book/02_Bridge.wiki Literature as a Bridge]
 * [https://github.com/csirmaz/How_To_See_A_Poem/blob/master/book/999_Notes.wiki Notes]
+
 

@@ -1,0 +1,29 @@
+
+=Literature as a Bridge=
+
+It's said often that literature (or, in fact, art in general) talks about things in an indirect way,
+that what is meant is usually not what is actually said.
+Of course baing an observant teenager who has spent his childhood in a post-socialist country
+I suspected that George Orwell's <i>Animal Farm</i> wasn't really about pigs,
+but considering that this could be true all the time, and using this as our starting point
+will help tremendously in deciphering any poem or obscure story.
+
+So how does this indirection work, and why is it there at all?
+Any text, or painting, sign, sculpture, traffic light or musical note is some kind of communication,
+and so literature is communication as well: the author says something, and the reader listens.
+But what if there's an obstacle between them?
+Imagine this a wide, swampy river, and the author and the reader stranded on its two sides.
+If they cannot communicate directly, the sensible thing to do is to take a detour,
+maybe upwards, in the form of a bridge.
+
+<img src="https://raw.githubusercontent.com/csirmaz/How_To_See_A_Poem/master/book/images/bridge-model.png"/>
+
+The author, instead of saying what she means directly, will "translate" it before rendering it into
+text, which can travel on top of the bridge to the reader, unhindered by the water.
+
+The permise of this book is that this translation uses images.
+
+TODO: Text is linear/temporal; image is spatial
+
+TODO: Explain experience / interpretation in the swamp
+ 
