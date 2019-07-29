@@ -2,23 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/wiki/csirmaz/How_To_See_A_Poem/images/bridge.png"/>
 
-A Visual Way of Reading
-Poetry and Literature
-for People Who Are Not Sure They Like Them
+This repository is home to three related projects, which you can read by following the links below:
 
-== Introduction to the Git Repository ==
+* [https://github.com/csirmaz-lit/How_To_See_A_Poem/wiki/Thesis0 <i>The Tomb of the Author in Robert Browning’s Dramatic Monologues</i>] by Elod Pal Csirmaz. My MA thesis introducing and using the concepts of Representism to analyse Browning's dramatic monologues.
+* [https://github.com/csirmaz-lit/How_To_See_A_Poem/wiki/Book-000-Contents A draft booklet] providing a light-hearted introduction to a couple of ideas from Representism that made reading literature much more accessible and interesting for me.
+* [https://github.com/csirmaz-lit/How_To_See_A_Poem/wiki/Representism A wiki] explaining the central concepts in Representism.
 
-Hi there!
-This Git repository is the source of a booklet
-I'm working on, which is a light-hearted introduction
-to a couple of ideas that made reading literature
-much more accessible and interesting for me.
-As GitHub renders the source files nicely, you can
-actually read the latest version of the booklet right here.
-Please feel free to log in and create an issue or leave a comment.
-
-For a more technical and formalised introduction to
-the main concepts behind this approach, please see the
-[https://github.com/csirmaz/How_To_See_A_Poem/wiki wiki].
-
-== [https://github.com/csirmaz/How_To_See_A_Poem/wiki/Book-000-Contents Start reading] ==
