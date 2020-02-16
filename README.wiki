@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/wiki/csirmaz/How_To_See_A_Poem/images/bridge.png"/>
 
-This repository is home to three related projects, which you can read by following the links below:
+This repository is home to two related projects, which you can read by following the links below:
 
-* [https://github.com/csirmaz-lit/How_To_See_A_Poem/wiki/Thesis0 <i>The Tomb of the Author in Robert Browning’s Dramatic Monologues</i>] by Elod Pal Csirmaz. My MA thesis introducing and using the concepts of Representism to analyse Browning's dramatic monologues.
 * [https://github.com/csirmaz-lit/How_To_See_A_Poem/wiki/Book-000-Contents A draft booklet] providing a light-hearted introduction to a couple of ideas from Representism that made reading literature much more accessible and interesting for me.
 * [https://github.com/csirmaz-lit/How_To_See_A_Poem/wiki/Representism A wiki] explaining the central concepts in Representism.
 
+For more on Representism, please see further essays and papers at https://csirmaz.github.io/lit-crit.html .
